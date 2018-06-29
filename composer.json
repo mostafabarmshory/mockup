@@ -1,0 +1,23 @@
+{
+	"name" : "mostafabarmshory/mockup",
+	"authors" : [{
+			"name" : "Mostafa Barmshory",
+			"email" : "mostafa.barmshory@dpq.co.ir",
+			"homepage" : "http://pluf.ir",
+			"role" : "developer"
+		}
+	],
+	"description" : "A simple REST server to simulate a random load.",
+	"type" : "application",
+	"homepage" : "http://pluf.ir",
+	"license" : "MIT",
+	"minimum-stability" : "dev",
+	"require" : {
+		"pluf/core" : "~3.0"
+	},
+	"keywords" : [
+		"mockup",
+		"php",
+		"performance test"
+	]
+}
